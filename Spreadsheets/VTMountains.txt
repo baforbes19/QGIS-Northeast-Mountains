@@ -1,0 +1,76 @@
+MOUNTAIN	ELEVATION	PROMINENCE	STATE	RANGE	SUBRANGE	LATITUDE	LONGITUDE	4000FOOT	3500FOOT	1800PROM	TOWER
+Mount Mansfield	4393	3633	Vermont	Green Mountains	Mansfield Range	44.543822	-72.814366	YES	YES	YES	NO
+Killington Peak	4235	3315	Vermont	Green Mountains	Coolidge Range	43.604717	-72.820177	YES	YES	YES	YES
+Mount Ellen	4083	2132	Vermont	Green Mountains	Presidential Range (VT)	44.159897	-72.928833	YES	YES	YES	NO
+Camel's Hump	4080	1860	Vermont	Green Mountains	Presidential Range (VT)	44.319572	-72.886339	YES	YES	YES	NO
+Mansfield Nose	4020	160	Vermont	Green Mountains	Mansfield Range	44.526468	-72.814979	YES	YES	NO	NO
+Mount Abraham (VT)	4006	286	Vermont	Green Mountains	Presidential Range (VT)	44.120426	-72.936238	YES	YES	NO	NO
+Pico Peak	3957	577	Vermont	Green Mountains	Coolidge Range	43.639421	-72.836444	NO	YES	NO	NO
+Stratton Mountain	3940	2405	Vermont	Green Mountains	Stratton Range	43.086218	-72.925101	NO	YES	YES	YES
+Jay Peak	3858	2972	Vermont	Green Mountains	Jay Range (VT)	44.924147	-72.525707	NO	YES	YES	NO
+Mendon Peak	3840	280	Vermont	Green Mountains	Coolidge Range	43.595186	-72.846330	NO	YES	NO	NO
+Equinox Mountain	3840	3040	Vermont	Taconic Mountains	North Taconic Range	43.165988	-73.117574	NO	YES	YES	NO
+Bread Loaf Mountain	3835	1415	Vermont	Green Mountains	Presidential Range (VT)	44.002113	-72.941362	NO	YES	NO	NO
+Big Jay	3786	380	Vermont	Green Mountains	Jay Range (VT)	44.915184	-72.540676	NO	YES	NO	NO
+Mount Wilson	3780	200	Vermont	Green Mountains	Presidential Range (VT)	44.004778	-72.925501	NO	YES	NO	NO
+Dorset Mountain	3760	2820	Vermont	Taconic Mountains	North Taconic Range	43.309277	-73.028248	NO	YES	YES	NO
+Glastenbury Mountain	3748	1108	Vermont	Green Mountains	Stratton Range	42.977928	-73.071635	NO	YES	NO	YES
+Shrewsbury Peak	3720	620	Vermont	Green Mountains	Coolidge Range	43.575702	-72.806039	NO	YES	NO	NO
+Sterling Mountain	3714	1534	Vermont	Green Mountains	Mansfield Range	44.582240	-72.740047	NO	YES	NO	NO
+Ethan Allen Mountain	3688	868	Vermont	Green Mountains	Presidential Range (VT)	44.293688	-72.884361	NO	YES	NO	NO
+Bolton Mountain	3680	1780	Vermont	Green Mountains	Mansfield Range	44.449346	-72.839840	NO	YES	NO	NO
+Stark Mountain	3662	222	Vermont	Green Mountains	Presidential Range (VT)	44.184165	-72.928899	NO	YES	NO	NO
+Mount Putnam	3642	2462	Vermont	Green Mountains	Worcester Range	44.418418	-72.638426	NO	YES	YES	NO
+Madonna Peak	3640	680	Vermont	Green Mountains	Mansfield Range	44.561504	-72.758514	NO	YES	NO	NO
+Mount Grant	3623	663	Vermont	Green Mountains	Presidential Range (VT)	44.052227	-72.926048	NO	YES	NO	NO
+Mount Snow	3586	1309	Vermont	Green Mountains	Hoosac Range	42.959332	-72.923401	NO	YES	NO	NO
+Mount Hunger	3583	303	Vermont	Green Mountains	Worcester Range	44.401009	-72.643373	NO	YES	NO	NO
+Mount Roosevelt	3540	260	Vermont	Green Mountains	Presidential Range (VT)	44.020135	-72.917895	NO	YES	NO	NO
+Farr Peak	3522	1378	Vermont	Green Mountains	Coolidge Range	43.809310	-72.943968	NO	YES	NO	NO
+West Dorset	3515	535	Vermont	Taconic Mountains	North Taconic Range	43.308913	-73.063860	NO	YES	NO	NO
+East Mountain	3439	2219	Vermont	Kingdom Mountains	East Haven Range	44.664728	-71.770174	NO	NO	YES	NO
+Signal Mountain	3360	2120	Vermont	Kingdom Mountains	Signal Range	44.206246	-72.325195	NO	NO	YES	NO
+Belvidere Mountain	3346	1555	Vermont	Green Mountains	Jay Range (VT)	44.773285	-72.551088	NO	NO	NO	YES
+Okemo Mountain	3343	1227	Vermont	Green Mountains	Coolidge Range	43.404120	-72.751627	NO	NO	NO	YES
+Gore Mountain (VT)	3332	1954	Vermont	Kingdom Mountains	Gore Range	44.919730	-71.793829	NO	NO	YES	NO
+Cold Hollows Mountain	3327	2146	Vermont	Green Mountains	Jay Range (VT)	44.787617	-72.689301	NO	NO	YES	NO
+Bald Mountain	3300	1760	Vermont	Kingdom Mountains	Willoughly Range	44.766245	-71.988351	NO	NO	NO	YES
+Burke Mountain	3260	1580	Vermont	Kingdom Mountains	East Haven Range	44.570786	-71.893062	NO	NO	NO	YES
+Monadnock Mountain	3148	1528	Vermont	Kingdom Mountains	Gore Range	44.897382	-71.544781	NO	NO	NO	YES
+Mount Ascutney	3130	2270	Vermont	Green Mountains	Ascutney Range	43.443593	-72.454381	NO	NO	YES	YES
+Grass Mountain	3109	2189	Vermont	Taconic Mountains	North Taconic Range	43.052937	-73.223651	NO	NO	YES	NO
+Spruce Mountain	3020	840	Vermont	Kingdom Mountains	Signal Range	44.234620	-72.355174	NO	NO	NO	YES
+West Mountain	2733	1113	Vermont	Kingdom Mountains	East Haven Range	44.709414	-71.704330	NO	NO	NO	YES
+Elmore Mountain	2608	908	Vermont	Green Mountains	Worcester Range	44.526332	-72.546069	NO	NO	NO	YES
+Mount Olga	2415	240	Vermont	Green Mountains	Hoosac Range	42.851145	-72.802920	NO	NO	NO	YES
+Bear Hill	2020	580	Vermont	Green Mountains		44.042679	-72.633998	NO	NO	NO	YES
+Owl's Head Mountain	1952	151	Vermont	Kingdom Mountains	Signal Range	44.296486	-72.294459	NO	NO	NO	YES
+Gile Mountain	1873	441	Vermont	Kingdom Mountains	Signal Range	43.789351	-72.351998	NO	NO	NO	YES
+Haystack Mountain	3445	384	Vermont	Green Mountains	Hoosac Range	42.913693	-72.919323	NO	NO	NO	NO
+Peru Peak	3425	1467	Vermont	Green Mountains		43.294558	-72.937618	NO	NO	NO	NO
+Gillepsie Peak	3366	1183	Vermont	Green Mountains		43.871495	-72.977361	NO	NO	NO	NO
+Mount Worcester	3293	393	Vermont	Green Mountains	Worcester Range	44.443347	-72.591889	NO	NO	NO	NO
+Cape Lookoff Mountain	3360	320	Vermont	Green Mountains		43.855428	-72.972824	NO	NO	NO	NO
+Bromley Mountain	3281	840	Vermont	Green Mountains		43.227942	-72.940079	NO	NO	NO	NO
+Blue Ridge Mountain	3278	1298	Vermont	Green Mountains		43.678106	-72.901812	NO	NO	NO	NO
+Burnt Rock Mountain	3168	208	Vermont	Green Mountains		44.267534	-72.895832	NO	NO	NO	NO
+Molly Stark Mountain	2967	590	Vermont	Green Mountains		44.221935	-72.926652	NO	NO	NO	NO
+Bald Mountain	2857	357	Vermont	Green Mountains		42.922115	-73.143840	NO	NO	NO	NO
+Baker Peak	2854	148	Vermont	Green Mountains		43.328847	-72.960105	NO	NO	NO	NO
+Laraway Mountain	2795	995	Vermont	Green Mountains		44.725990	-72.712020	NO	NO	NO	NO
+Deer Leap Mountain	2782	522	Vermont	Green Mountains		43.670092	-72.836338	NO	NO	NO	NO
+Mount Pisgah	2756	640	Vermont	Kingdom Mountains		44.729920	-72.031187	NO	NO	NO	NO
+Brousseau Mountain	2723	903	Vermont	Kingdom Mountains		44.967829	-71.739404	NO	NO	NO	NO
+Mount Hor	2657	1368	Vermont	Kingdom Mountains		44.712922	-72.053447	NO	NO	NO	NO
+Quimby Mountain	2640	280	Vermont	Green Mountains		43.689916	-72.749547	NO	NO	NO	NO
+The Lookout	2440	220	Vermont	Green Mountains		43.678891	-72.638512	NO	NO	NO	NO
+Wheeler	2372	630	Vermont	Kingdom Mountains		44.734378	-72.091174	NO	NO	NO	NO
+Harmon Hill	2320	80	Vermont	Green Mountains		42.870936	-73.132548	NO	NO	NO	NO
+Averill Mountain	2280	263	Vermont	Kingdom Mountains		45.000602	-71.725097	NO	NO	NO	NO
+Bear Mountain	2247	820	Vermont	Green Mountains		43.470460	-72.938311	NO	NO	NO	NO
+Prospect Rock	2079	19	Vermont	Green Mountains		43.153869	-73.008745	NO	NO	NO	NO
+Deer Mountain	1988	364	Vermont	Kingdom Mountains		44.306622	-72.264247	NO	NO	NO	NO
+Wrights Mountain	1822	562	Vermont	Kingdom Mountains		44.043837	-72.170261	NO	NO	NO	NO
+Kent's Ledge	1493	393	Vermont	Green Mountains		43.807805	-72.530966	NO	NO	NO	NO
+Snake Mountain	1280	993	Vermont	Green Mountains		44.061579	-73.280633	NO	NO	NO	NO
+Mount Philo	980	620	Vermont	Green Mountains		44.278576	-73.216453	NO	NO	NO	NO

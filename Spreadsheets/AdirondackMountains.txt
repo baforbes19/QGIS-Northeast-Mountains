@@ -1,0 +1,151 @@
+MOUNTAIN	ELEVATION	PROMINENCE	STATE	RANGE	SUBRANGE	LATITUDE	LONGITUDE	4000FOOT	1800PROM	29ER	TOWER	29JR
+Mount Marcy	5344	4914	New York	Adirondack Mountains	Marcy Range	44.112857	-73.923784	YES	YES	NO	NO	NO
+Algonquin Peak	5115	2096	New York	Adirondack Mountains	MacIntyre Range	44.143624	-73.986721	YES	YES	NO	NO	NO
+Mount Haystack	4961	827	New York	Adirondack Mountains	Marcy Range	44.105796	-73.900787	YES	NO	NO	NO	NO
+Mount Skylight	4925	577	New York	Adirondack Mountains	Marcy Range	44.099543	-73.931200	YES	NO	NO	NO	NO
+Whiteface Mountain	4865	3094	New York	Adirondack Mountains	Whiteface Range	44.365795	-73.903219	YES	YES	NO	NO	NO
+Iroquois Peak	4843	151	New York	Adirondack Mountains	MacIntyre Range	44.136881	-73.998263	YES	NO	NO	NO	NO
+Basin Mountain	4826	725	New York	Adirondack Mountains	Great Range	44.121392	-73.886560	YES	NO	NO	NO	NO
+Gray Peak	4826	102	New York	Adirondack Mountains	Marcy Range	44.111683	-73.935370	YES	NO	NO	NO	NO
+Dix Mountain	4823	2789	New York	Adirondack Mountains	Dix Range	44.082417	-73.786588	YES	YES	NO	NO	NO
+Gothics	4734	699	New York	Adirondack Mountains	Great Range	44.127528	-73.858031	YES	NO	NO	NO	NO
+Mount Colden	4715	876	New York	Adirondack Mountains	Marcy Range	44.126996	-73.960092	YES	NO	NO	NO	NO
+Giant Mountain	4626	2953	New York	Adirondack Mountains	Giant Range	44.161243	-73.720261	YES	YES	NO	NO	NO
+Mount Redfield	4606	243	New York	Adirondack Mountains	Marcy Range	44.094817	-73.950006	YES	NO	NO	NO	NO
+Santanoni Peak	4606	2408	New York	Adirondack Mountains	Santononi Range	44.082445	-74.131163	YES	YES	NO	NO	NO
+Nippletop	4593	1345	New York	Adirondack Mountains	Colvin Range	44.089104	-73.816293	YES	NO	NO	NO	NO
+Wright Peak	4587	256	New York	Adirondack Mountains	MacIntyre Range	44.151768	-73.979762	YES	NO	YES	NO	NO
+Saddleback Mountain (NY)	4528	361	New York	Adirondack Mountains	Great Range	44.126584	-73.875073	YES	NO	NO	NO	NO
+Panther Peak	4442	276	New York	Adirondack Mountains	Santononi Range	44.098438	-74.132291	YES	NO	NO	NO	NO
+Armstrong Mountain	4429	98	New York	Adirondack Mountains	Great Range	44.134718	-73.849824	YES	NO	NO	NO	NO
+Table Top Mountain	4413	410	New York	Adirondack Mountains	Marcy Range	44.140661	-73.916373	YES	NO	NO	NO	NO
+Hough Peak	4409	374	New York	Adirondack Mountains	Dix Range	44.069622	-73.777727	YES	NO	NO	NO	NO
+Rocky Peak Ridge	4390	617	New York	Adirondack Mountains	Giant Range	44.154363	-73.705445	YES	NO	NO	NO	NO
+Macomb Mountain	4370	564	New York	Adirondack Mountains	Dix Range	44.051760	-73.780276	YES	NO	NO	NO	NO
+Mount Marshall	4364	492	New York	Adirondack Mountains	MacIntyre Range	44.127744	-74.012320	YES	NO	NO	NO	NO
+Allen Mountain	4347	640	New York	Adirondack Mountains	Marcy Range	44.071037	-73.939912	YES	NO	NO	NO	NO
+Seward Mountain	4331	2021	New York	Adirondack Mountains	Seward Range	44.159861	-74.199670	YES	YES	NO	NO	NO
+Esther Mountain	4239	302	New York	Adirondack Mountains	Whiteface Range	44.387191	-73.889839	YES	NO	NO	NO	NO
+Upper Wolfjaw Mountain	4203	266	New York	Adirondack Mountains	Great Range	44.140504	-73.845274	YES	NO	NO	NO	NO
+Big Slide Mountain	4199	1050	New York	Adirondack Mountains	Sentinel Range	44.182303	-73.870842	YES	NO	NO	NO	NO
+Lower Wolfjaw Mountain	4173	663	New York	Adirondack Mountains	Great Range	44.148407	-73.832884	YES	NO	NO	NO	NO
+Phelps Mountain	4160	190	New York	Adirondack Mountains	Marcy Range	44.157024	-73.921508	YES	NO	NO	NO	NO
+Sawteeth	4134	459	New York	Adirondack Mountains	Great Range	44.113400	-73.850664	YES	NO	NO	NO	NO
+Street Mountain	4134	1247	New York	Adirondack Mountains	Street Range	44.179393	-74.027066	YES	NO	NO	NO	NO
+Donaldson Mountain	4108	138	New York	Adirondack Mountains	Seward Range	44.154118	-74.211587	YES	NO	NO	NO	NO
+Cascade Mountain	4098	1178	New York	Adirondack Mountains	Sentinel Range	44.218550	-73.860169	YES	NO	NO	NO	NO
+Seymour Mountain	4091	1007	New York	Adirondack Mountains	Seward Range	44.158107	-74.172565	YES	NO	NO	NO	NO
+South Dix	4068	164	New York	Adirondack Mountains	Dix Range	44.060073	-73.774443	YES	NO	NO	NO	NO
+Porter Mountain	4068	295	New York	Adirondack Mountains	Sentinel Range	44.212416	-73.853665	YES	NO	NO	NO	NO
+Mount Emmons	4039	102	New York	Adirondack Mountains	Seward Range	44.143807	-74.214392	YES	NO	NO	NO	NO
+Mount Colvin	4035	689	New York	Adirondack Mountains	Colvin Range	44.094202	-73.834472	YES	NO	NO	NO	NO
+Grace Mountain	4026	318	New York	Adirondack Mountains	Dix Range	44.065340	-73.757444	YES	NO	NO	NO	NO
+Dial Mountain	4003	164	New York	Adirondack Mountains	Colvin Range	44.105941	-73.796421	YES	NO	NO	NO	NO
+Blake Peak	3970	558	New York	Adirondack Mountains	Colvin Range	44.081398	-73.844691	YES	NO	NO	NO	NO
+Cliff Mountain	3944	466	New York	Adirondack Mountains	Marcy Range	44.103354	-73.975278	YES	NO	NO	NO	NO
+Nye Mountain	3839	66	New York	Adirondack Mountains	Street Range	44.187291	-74.024109	YES	NO	NO	NO	NO
+Couchsachraga Peak	3793	249	New York	Adirondack Mountains	Santononi Range	44.095561	-74.160136	YES	NO	NO	NO	NO
+Hoffman Mountain	3704	1952	New York	Adirondack Mountains	Blue Ridge Range	43.911776	-73.816818	NO	YES	NO	NO	NO
+Jay Mountain	3576	394	New York	Adirondack Mountains		44.310870	-73.666356	NO	NO	YES	NO	NO
+Pitchoff Mountain	3497	1135	New York	Adirondack Mountains		44.237573	-73.877305	NO	NO	YES	NO	NO
+Noonmark Mountain	3491	702	New York	Adirondack Mountains		44.128755	-73.772620	NO	NO	YES	NO	NO
+Ampersand Mountain	3314	1313	New York	Adirondack Mountains		44.234657	-74.202764	NO	NO	YES	NO	NO
+Crane Mountain	3240	1724	New York	Adirondack Mountains		43.544866	-73.962344	NO	NO	YES	NO	NO
+Catamount Mountain	3169	1496	New York	Adirondack Mountains		44.459511	-73.872230	NO	NO	YES	NO	NO
+Hopkins Mountain	3150	164	New York	Adirondack Mountains		44.183602	-73.749189	NO	NO	YES	NO	NO
+Round Mountain	3084	656	New York	Adirondack Mountains		44.131924	-73.752053	NO	NO	YES	NO	NO
+Bald Peak	3035	246	New York	Adirondack Mountains		44.159971	-73.665701	NO	NO	YES	NO	NO
+First Brother	2986	0	New York	Adirondack Mountains		44.190556	-73.837115	NO	NO	YES	NO	NO
+Balanced Boulders	2986	0	New York	Adirondack Mountains		44.229632	-73.877767	NO	NO	NO	NO	YES
+Mount Van Hoevenburg	2940	611	New York	Adirondack Mountains		44.210096	-73.929902	NO	NO	NO	NO	YES
+Blueberry Mountain	2920	66	New York	Adirondack Mountains		44.217867	-73.816758	NO	NO	YES	NO	NO
+Peaked Mountain	2913	630	New York	Adirondack Mountains		43.728843	-74.148867	NO	NO	YES	NO	NO
+Mount Jo	2877	679	New York	Adirondack Mountains		44.189367	-73.967169	NO	NO	NO	NO	YES
+Big Crow Mountain	2815	345	New York	Adirondack Mountains		44.266500	-73.740277	NO	NO	NO	NO	YES
+Rooster Comb	2789	230	New York	Adirondack Mountains		44.172844	-73.811625	NO	NO	YES	NO	NO
+Nubble	2772	164	New York	Adirondack Mountains		44.146432	-73.743753	NO	NO	YES	NO	NO
+Chimney Mountain	2710	653	New York	Adirondack Mountains		43.693239	-74.209636	NO	NO	YES	NO	NO
+Indian Head	2657	137	New York	Adirondack Mountains		44.113073	-73.821655	NO	NO	YES	NO	NO
+Sawyer Mountain	2618	578	New York	Adirondack Mountains		43.800929	-74.334998	NO	NO	NO	NO	YES
+Pharoah Mountain	2556	1596	New York	Adirondack Mountains		43.818547	-73.658039	NO	NO	YES	NO	NO
+Owl's Head Lookout	2530	160	New York	Adirondack Mountains		44.189808	-73.668865	NO	NO	YES	NO	NO
+Castle Rock	2480	266	New York	Adirondack Mountains		43.875963	-74.467833	NO	NO	NO	NO	YES
+Moxham Mountain	2464	919	New York	Adirondack Mountains		43.751686	-73.995227	NO	NO	YES	NO	NO
+Baker Mountain	2457	712	New York	Adirondack Mountains		44.334992	-74.103599	NO	NO	NO	NO	YES
+Black Bear Mountain	2441	640	New York	Adirondack Mountains		43.765524	-74.760998	NO	NO	NO	NO	YES
+Flume Knob	2434	6	New York	Adirondack Mountains		44.372573	-73.861812	NO	NO	YES	NO	NO
+Baxter Mountain	2428	525	New York	Adirondack Mountains		44.216950	-73.765159	NO	NO	NO	NO	YES
+Silver Lake Mountain	2374	934	New York	Adirondack Mountains		44.519633	-73.840537	NO	NO	NO	NO	YES
+Snow Mountain	2362	262	New York	Adirondack Mountains		44.168555	-73.794675	NO	NO	YES	NO	NO
+Echo Cliff	2361	0	New York	Adirondack Mountains		43.416333	-74.564252	NO	NO	NO	NO	YES
+Sleeping Beauty Lookout	2347	247	New York	Adirondack Mountains		43.558078	-73.549944	NO	NO	NO	NO	YES
+Cobble Hill	2343	440	New York	Adirondack Mountains		44.293043	-73.962918	NO	NO	NO	NO	YES
+Buck Mountain	2334	1054	New York	Adirondack Mountains		43.520359	-73.596100	NO	NO	YES	NO	NO
+Good Luck Mountain	2323	492	New York	Adirondack Mountains		43.250217	-74.555626	NO	NO	NO	NO	YES
+Coney Mountain	2280	410	New York	Adirondack Mountains		44.101794	-74.523439	NO	NO	NO	NO	YES
+Fivemile Mountain	2256	1176	New York	Adirondack Mountains		43.639625	-73.577442	NO	NO	YES	NO	NO
+Treadyway Mountain	2244	824	New York	Adirondack Mountains		43.835018	-73.619702	NO	NO	YES	NO	NO
+Panther Mountain Jr	2231	640	New York	Adirondack Mountains		44.234192	-74.334354	NO	NO	NO	NO	YES
+Rocky Mountain	2224	216	New York	Adirondack Mountains		43.768804	-74.796238	NO	NO	NO	NO	YES
+Bear Run	2198	0	New York	Adirondack Mountains		44.149310	-73.799930	NO	NO	NO	NO	YES
+Bear Mountain	2180	680	New York	Adirondack Mountains		44.195784	-74.812217	NO	NO	NO	NO	YES
+Goodman Mountain	2178	426	New York	Adirondack Mountains		44.122616	-74.530611	NO	NO	NO	NO	YES
+Pilot Knob	2163	723	New York	Adirondack Mountains		43.488955	-73.606531	NO	NO	NO	NO	YES
+Watch Hill	2126	276	New York	Adirondack Mountains		43.689513	-74.336183	NO	NO	NO	NO	YES
+Blueberry Cobbles	2034	114	New York	Adirondack Mountains		44.151092	-73.650144	NO	NO	NO	NO	YES
+Thomas Mountain	2031	911	New York	Adirondack Mountains		43.598330	-73.706888	NO	NO	NO	NO	YES
+Cat Mountain (East)	1956	416	New York	Adirondack Mountains		43.568871	-73.707788	NO	NO	YES	NO	NO
+Severance Hill	1634	364	New York	Adirondack Mountains		43.867765	-73.767357	NO	NO	NO	NO	YES
+Kipp Mountain	1612	672	New York	Adirondack Mountains		43.698999	-73.838854	NO	NO	NO	NO	YES
+Hackensack Mountain	1357	517	New York	Adirondack Mountains		43.503586	-73.774266	NO	NO	NO	NO	YES
+The Pinnacle	1326	-	New York	Adirondack Mountains		43.562889	-73.678443	NO	NO	NO	NO	YES
+Stewart Mountain	1240	-	New York	Adirondack Mountains		43.682082	-73.841413	NO	NO	NO	NO	YES
+Spring Overlook	1158	58	New York	Adirondack Mountains		43.224602	-73.755102	NO	NO	NO	NO	YES
+Shelving Rock Mountain	1130	270	New York	Adirondack Mountains		43.561433	-73.601080	NO	NO	NO	NO	YES
+Coot Hill	1099	115	New York	Adirondack Mountains		44.002270	-73.465884	NO	NO	NO	NO	YES
+Snowy Mountain	3898	2224	New York	Adirondack Mountains	Indian Lake Range	43.700244	-74.386727	NO	YES	YES	YES	NO
+Lyon Mountain	3820	2212	New York	Adirondack Mountains	Saranac Range	44.703071	-73.864191	NO	YES	YES	YES	NO
+Wakely Mountain	3766	1620	New York	Adirondack Mountains		43.737000	-74.514841	NO	NO	YES	YES	NO
+Blue Mountain	3740	1909	New York	Adirondack Mountains	Fishing Brook Range	43.872506	-74.401043	NO	YES	YES	YES	NO
+Hurricane Mountain	3678	1982	New York	Adirondack Mountains	Jay Range (NY)	44.235271	-73.710332	NO	YES	YES	YES	NO
+Gore Mountain	3563	1850	New York	Adirondack Mountains	Gore Range	43.673486	-74.048654	NO	YES	NO	YES	NO
+Mount Adams	3520	1027	New York	Adirondack Mountains		44.086909	-74.025600	NO	NO	YES	YES	NO
+Vanderwhacker Mountain	3409	1677	New York	Adirondack Mountains		43.898216	-74.096054	NO	NO	YES	YES	NO
+Loon Lake Mountain	3320	1580	New York	Adirondack Mountains		44.558164	-74.151683	NO	NO	YES	YES	NO
+Saint Regis Mountain	2881	1241	New York	Adirondack Mountains		44.408768	-74.329678	NO	NO	YES	YES	NO
+Owl's Head Mountain	2812	1001	New York	Adirondack Mountains		43.954298	-74.498535	NO	NO	YES	YES	NO
+Goodnow Mountain	2690	1017	New York	Adirondack Mountains		43.960182	-74.209939	NO	NO	YES	YES	NO
+Hadley Mountain	2680	960	New York	Adirondack Mountains		43.376987	-73.970878	NO	NO	YES	YES	NO
+Black Mountain	2640	2280	New York	Adirondack Mountains	East George Range	43.606685	-73.531189	NO	YES	YES	YES	NO
+Arab Mountain	2539	856	New York	Adirondack Mountains		44.203940	-74.584563	NO	NO	NO	YES	YES
+Azure Mountain	2500	980	New York	Adirondack Mountains		44.541149	-74.500624	NO	NO	NO	YES	YES
+Bald Mountain	2349	213	New York	Adirondack Mountains		43.738623	-74.913255	NO	NO	NO	YES	YES
+Stillwater Mountain	2264	404	New York	Adirondack Mountains		43.861935	-75.033601	NO	NO	NO	YES	YES
+Kane Mountain	2180	460	New York	Adirondack Mountains		43.180969	-74.515387	NO	NO	NO	YES	YES
+Poke-O-Moonshine Mountain	2165	328	New York	Adirondack Mountains		44.401982	-73.513242	NO	NO	YES	YES	NO
+Owl's Head	2133	423	New York	Adirondack Mountains		44.248398	-73.822901	NO	NO	NO	YES	YES
+Belfry Mountain	1864	207	New York	Adirondack Mountains		44.097842	-73.548081	NO	NO	NO	YES	YES
+Cathedral Rock	1700	206	New York	Adirondack Mountains		44.153725	-74.915496	NO	NO	NO	YES	YES
+Pillsbury Mountain	3602	1063	New York	Adirondack Mountains		43.581574	-74.511195	NO	NO	NO	YES	NO
+Woodhull Mountain	2365	465	New York	Adirondack Mountains		43.622930	-74.961455	NO	NO	NO	YES	NO
+Spruce Mountain	2009	89	New York	Adirondack Mountains		43.216311	-73.905748	NO	NO	NO	YES	NO
+Panther Mountain	3862	1185	New York	Adirondack Mountains		43.736649	-74.391497	NO	NO	NO	NO	NO
+MacNaughton Mountain	3983	833	New York	Adirondack Mountains		44.139809	-74.064399	NO	NO	NO	NO	NO
+McKenzie Mountain	3832	617	New York	Adirondack Mountains		44.336244	-74.032572	NO	NO	NO	NO	NO
+Averill Peak	3803	343	New York	Adirondack Mountains		44.692850	-73.881038	NO	NO	NO	NO	NO
+Debar Mountain	3300	1640	New York	Adirondack Mountains		44.602324	-74.220886	NO	NO	NO	NO	NO
+Scarface Mountain	3058	1089	New York	Adirondack Mountains		44.264963	-74.074030	NO	NO	NO	NO	NO
+West Mountain	2913	1222	New York	Adirondack Mountains		43.859941	-74.706378	NO	NO	NO	NO	NO
+Haystack Mountain	2874	282	New York	Adirondack Mountains		44.320656	-74.054418	NO	NO	NO	NO	NO
+Erebus Mountain	2527	767	New York	Adirondack Mountains		43.576132	-73.551364	NO	NO	NO	NO	NO
+Cat Mountain (West)	2267	0	New York	Adirondack Mountains		44.100303	-74.864824	NO	NO	NO	NO	NO
+Huckleberry Mountain	2232	120	New York	Adirondack Mountains		43.643964	-73.574066	NO	NO	NO	NO	NO
+Stevens Mountain	2174	654	New York	Adirondack Mountains		43.770040	-73.636723	NO	NO	NO	NO	NO
+Prospect Mountain	2020	120	New York	Adirondack Mountains		43.424664	-73.746080	NO	NO	NO	NO	NO
+Brown Mountain	1966	106	New York	Adirondack Mountains		43.651013	-73.560762	NO	NO	NO	NO	NO
+Fifth Peak	1813	313	New York	Adirondack Mountains		43.619332	-73.584194	NO	NO	NO	NO	NO
+French Point Mountain	1756	416	New York	Adirondack Mountains		43.601993	-73.591790	NO	NO	NO	NO	NO
+Potash Mountain	1739	559	New York	Adirondack Mountains		43.377292	-73.825893	NO	NO	NO	NO	NO
+First Peak	1586	286	New York	Adirondack Mountains		43.592079	-73.604493	NO	NO	NO	NO	NO
+Beckman	1560	140	New York	Adirondack Mountains		43.698534	-73.865441	NO	NO	NO	NO	NO
+Rattlesnake Mountain	1316	719	New York	Adirondack Mountains		44.403158	-73.433518	NO	NO	NO	NO	NO
