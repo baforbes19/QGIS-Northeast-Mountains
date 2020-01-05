@@ -40,9 +40,9 @@ Collect Mountain Data from:
   - Connecticut
   - Rhode Island
   
-Define Mountain Range Borders
-Create better and more diverse symbols for mountains
-???Add roads and settlements???
-Create displays when hovering over Mountains
-???Convert to web format???
-???Some other things???
+- Define Mountain Range Borders
+- Create better and more diverse symbols for mountains
+- ???Add roads and settlements???
+- Create displays when hovering over Mountains
+- ???Convert to web format???
+- ???Some other things???
