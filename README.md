@@ -25,20 +25,20 @@ Finished:
 - Add water features to map
 - Add Borders
 
-Collect Mountain Data from:
-  - New Hampshire
-  - Vermont
-  - Maine
-  - Adirondacks
+- Collect Mountain Data from:
+    - New Hampshire
+    - Vermont
+    - Maine
+    - Adirondacks
 
 Todo:
 
-Collect Mountain Data from:
-  - Catskills
-  - Taconics
-  - Massachusetts
-  - Connecticut
-  - Rhode Island
+- Collect Mountain Data from:
+    - Catskills
+    - Taconics
+    - Massachusetts
+    - Connecticut
+    - Rhode Island
   
 - Define Mountain Range Borders
 - Create better and more diverse symbols for mountains
