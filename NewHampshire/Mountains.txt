@@ -1,0 +1,214 @@
+MOUNTAIN	ELEVATION	PROMINENCE	RANGE	SUBRANGE	LATITUDE	LONGITUDE	4000FOOT	3500FOOT	1800PROM	52VIEW	TOWER
+Cascade Mountain	2631	611	White Mountains	Mahoosuc Range	44.433983, 	-71.150920	NO	NO	NO	NO	NO
+Stub Hill	3627	1327	Longfellow Mountains		45.106795	-71.097821	NO	YES	NO	NO	NO
+Magalloway Mountain	3383	1003	Longfellow Mountains	Dixville Range	45.063539	-71.162397	NO	NO	NO	YES	YES
+Table Rock	2500	0	Longfellow Mountains	Dixville Range	44.863955	-71.303345	NO	NO	NO	NO	NO
+Blue Mountain	3720	1780	White Mountains		44.791418	-71.478589	NO	YES	NO	NO	NO
+Whitcomb Mountain	3615	1255	Longfellow Mountains		44.785656	-71.378207	NO	YES	NO	NO	NO
+Gore Mountain	3600	340	Longfellow Mountains		44.774092	-71.465177	NO	YES	NO	NO	NO
+Signal Mountain	2702	881	White Mountains		44.761240	-71.227541	NO	NO	NO	NO	YES
+Castle Mountain	3569	169	Longfellow Mountains		44.759659	-71.479350	NO	YES	NO	NO	NO
+West Peak	3580	240	Longfellow Mountains		44.754366	-71.495892	NO	YES	NO	NO	NO
+Sugarloaf	3700	580	Longfellow Mountains	Dixville Range	44.744125	-71.467915	NO	YES	NO	YES	NO
+Savage Mountain	3500	1240	Longfellow Mountains		44.731999	-71.544440	NO	YES	NO	NO	NO
+East Whitcomb	2500	120	White Mountains		44.729632	-71.331825	NO	NO	NO	NO	YES
+Long Mountain	3661	1701	White Mountains		44.680014	-71.379772	NO	YES	NO	NO	NO
+West Long Mountain	3661	241	White Mountains		44.669638	-71.402348	NO	YES	NO	NO	NO
+North Percy Peak	3420	780	Longfellow Mountains	Dixville Range	44.663156	-71.435118	NO	NO	NO	YES	NO
+Milan Hill	1720	200	White Mountains		44.572327	-71.223219	NO	NO	NO	NO	YES
+Hutchins Mountain	3730	511	White Mountains		44.548125	-71.454732	NO	YES	NO	NO	NO
+Pilot Ridge	3615	315	White Mountains		44.534194	-71.437310	NO	YES	NO	NO	NO
+Unknown Pond Peak	3500	380	White Mountains		44.528657	-71.380427	NO	YES	NO	NO	NO
+Southeast Pilot Ridge	3560	220	White Mountains		44.528341	-71.428183	NO	YES	NO	NO	NO
+The Horn	3905	245	White Mountains	Pilot Range	44.517963	-71.400154	NO	YES	NO	YES	NO
+The Bulge	3940	220	White Mountains		44.514568	-71.408182	NO	YES	NO	NO	NO
+Mount Cabot	4160	2661	White Mountains	Pilot Range	44.505984	-71.414423	YES	YES	YES	NO	NO
+North Terrace Mountain	3638	174	White Mountains		44.487413	-71.407700	NO	YES	NO	NO	NO
+Terrace Mountain	3655	604	White Mountains		44.477206	-71.395252	NO	YES	NO	NO	NO
+Mount Success	3565	665	White Mountains	Mahoosuc Range	44.471489	-71.039210	NO	YES	NO	YES	NO
+Mount Weeks	3901	614	White Mountains		44.461486	-71.381922	NO	YES	NO	NO	NO
+Mount Prospect	2067	945	White Mountains		44.451553	-71.570926	NO	NO	NO	NO	YES
+Middle Weeks	3684	180	White Mountains		44.449624	-71.379175	NO	YES	NO	NO	NO
+South Weeks	3885	341	White Mountains		44.442276	-71.388312	NO	YES	NO	NO	NO
+Mount Starr King	3898	138	White Mountains	Pilot Range	44.434666	-71.433035	NO	NO	NO	YES	NO
+Mount Wambek	4006	1289	White Mountains	Pilot Range	44.432661	-71.417564	YES	YES	NO	NO	NO
+Pliny Mountain	3606	456	White Mountains		44.416877	-71.392995	NO	YES	NO	NO	NO
+Mount Hayes	2555	595	White Mountains	Mahoosuc Range	44.415727	-71.159823	NO	NO	NO	YES	NO
+Mount Crescent	3251	764	White Mountains		44.404348	-71.294115	NO	NO	NO	NO	NO
+Mount Randolph	3081	168	White Mountains		44.388337	-71.318024	NO	NO	NO	NO	NO
+Pine Mountain	2400	700	White Mountains		44.365938	-71.215270	NO	NO	NO	NO	NO
+Shelburne Moriah Mountain	3735	435	White Mountains	Carter Range	44.353191	-71.098864	NO	YES	NO	YES	NO
+Mount Moriah	4049	922	White Mountains	Carter Range	44.340522	-71.131776	YES	YES	NO	NO	NO
+Cherry Mountain	3554	1546	White Mountains	Presidential Range (NH)	44.330779	-71.499179	NO	YES	NO	YES	NO
+Mount Madison	5366	466	White Mountains	Presidential Range (NH)	44.328843	-71.276820	YES	YES	NO	NO	NO
+Imp Face	3165	45	White Mountains	Carter Range	44.321627	-71.188150	NO	NO	NO	YES	NO
+Mount Adams	5799	861	White Mountains	Presidential Range (NH)	44.320675	-71.291695	YES	YES	NO	NO	NO
+Mount Jefferson	5712	753	White Mountains	Presidential Range (NH)	44.304185	-71.316750	YES	YES	NO	NO	NO
+Middle Carter Mountain	4600	700	White Mountains	Carter Range	44.303054	-71.167757	YES	YES	NO	NO	NO
+Mount Dartmouth	3727	718	White Mountains		44.302539	-71.383904	NO	YES	NO	NO	NO
+West Royce Mountain	3200	1320	White Mountains	Baldface Range	44.302318	-71.018321	NO	NO	NO	YES	NO
+Mount Deception	3671	561	White Mountains		44.293707	-71.420632	NO	YES	NO	NO	NO
+South Carter Mountain	4420	220	White Mountains	Carter Range	44.289823	-71.176483	YES	YES	NO	NO	NO
+Mount Washington	6288	6148	White Mountains	Presidential Range (NH)	44.270464	-71.303444	YES	YES	YES	NO	NO
+Mount Meader	2782	102	White Mountains		44.269112	-71.053612	NO	NO	NO	NO	NO
+Carter Dome	4832	2821	White Mountains	Carter Range	44.267352	-71.179195	YES	YES	YES	NO	NO
+Wildcat A	4422	1034	White Mountains	Carter Range	44.259231	-71.201739	YES	YES	NO	NO	NO
+Mount Monroe	5372	254	White Mountains	Presidential Range (NH)	44.255050	-71.321420	YES	YES	NO	NO	NO
+Eagle Crag	3020	60	White Mountains	Baldface Range	44.253624	-71.071577	NO	NO	NO	YES	NO
+Middle Sugarloaf	2539	259	White Mountains	Twin Range	44.251639	-71.517713	NO	NO	NO	YES	NO
+Wildcat D	4062	287	White Mountains	Carter Range	44.249433	-71.223766	YES	YES	NO	NO	NO
+North Baldface	3600	1240	White Mountains	Baldface Range	44.242974	-71.087196	NO	YES	NO	YES	NO
+Mount Eisenhower	4760	335	White Mountains	Presidential Range (NH)	44.240526	-71.350307	YES	YES	NO	NO	NO
+South Baldface	3560	280	White Mountains	Baldface Range	44.230751	-71.078068	NO	YES	NO	YES	NO
+Mount Pierce	4310	230	White Mountains	Presidential Range (NH)	44.226755	-71.365783	YES	YES	NO	NO	NO
+Nubble Peak	3813	173	White Mountains		44.222888	-71.561533	NO	YES	NO	NO	NO
+Mount Hale	4054	614	White Mountains	Twin Range	44.221711	-71.512254	YES	YES	NO	NO	NO
+Eastman Mountain	2939	359	White Mountains	Baldface Range	44.215642	-71.062028	NO	NO	NO	YES	NO
+Sable Mountain	3519	619	White Mountains		44.214943	-71.095797	NO	YES	NO	NO	NO
+Mount Isolation	4003	203	White Mountains	Presidential Range (NH)	44.214706	-71.309318	YES	YES	NO	NO	NO
+Mount Tom	4051	331	White Mountains	Crawford Range	44.210563	-71.446184	YES	YES	NO	NO	NO
+Mount Avalon	3440	80	White Mountains	Crawford Range	44.206418	-71.427128	NO	NO	NO	YES	NO
+Mount Willard	2865	265	White Mountains	Crawford Range	44.203899	-71.413081	NO	NO	NO	YES	NO
+Mount Jackson	4052	332	White Mountains	Presidential Range (NH)	44.203202	-71.375523	YES	YES	NO	NO	NO
+North Twin	4761	281	White Mountains	Twin Range	44.202594	-71.558053	YES	YES	NO	NO	NO
+South Hale	3680	240	White Mountains		44.201110	-71.518585	NO	YES	NO	NO	NO
+Middle Black Mountain	2757	157	White Mountains	Carter Range	44.198667	-71.168575	NO	NO	NO	YES	NO
+Mount Field	4320	1681	White Mountains	Crawford Range	44.196195	-71.433428	YES	YES	NO	NO	NO
+Mount Webster	3910	150	White Mountains	Presidential Range (NH)	44.194751	-71.388224	NO	NO	NO	YES	NO
+Garfield Ridge East	3590	190	White Mountains		44.192886	-71.582005	NO	YES	NO	NO	NO
+Garfield Ridge West	3667	227	White Mountains		44.189918	-71.595290	NO	YES	NO	NO	NO
+West Field	3691	211	White Mountains		44.189225	-71.447176	NO	YES	NO	NO	NO
+South Twin	4902	1502	White Mountains	Twin Range	44.187702	-71.554604	YES	YES	NO	NO	NO
+Mount Garfield	4480	800	White Mountains	Franconia Range	44.187219	-71.610836	YES	YES	NO	NO	NO
+Galehead Mountain	4024	264	White Mountains	Twin Range	44.185020	-71.573501	YES	YES	NO	NO	NO
+Mount Willey	4255	255	White Mountains	Crawford Range	44.183428	-71.421129	YES	YES	NO	NO	NO
+Artist's Bluff	2320	280	White Mountains		44.181273	-71.698011	NO	NO	NO	NO	NO
+Zealand Mountain	4240	200	White Mountains	Twin Range	44.179740	-71.521355	YES	YES	NO	NO	NO
+Mount Guyot	4560	160	White Mountains	Twin Range	44.168219	-71.533907	YES	YES	NO	NO	NO
+North Doublehead	3053	953	White Mountains	Carter Range	44.167740	-71.130047	NO	NO	NO	YES	NO
+South Doublehead	2939	219	White Mountains		44.161509	-71.131923	NO	NO	NO	NO	NO
+Mount Lafayette	5240	3320	White Mountains	Franconia Range	44.160730	-71.644564	YES	YES	YES	NO	NO
+Cannon Mountain	4080	720	White Mountains	Kinsman Range	44.156776	-71.698626	YES	YES	NO	NO	YES
+Stairs Mountain	3468	508	White Mountains	Presidential Range (NH)	44.155122	-71.318482	NO	NO	NO	YES	NO
+West Bond	4520	160	White Mountains	Twin Range	44.154734	-71.543514	YES	YES	NO	NO	NO
+Mount Bond	4698	298	White Mountains	Twin Range	44.153045	-71.531225	YES	YES	NO	NO	NO
+The Cannon Balls	3769	329	White Mountains		44.149963	-71.710296	NO	YES	NO	NO	NO
+Mount Lincoln	5089	169	White Mountains	Franconia Range	44.148832	-71.644677	YES	YES	NO	NO	NO
+Mount Resolution	3415	335	White Mountains	Presidential Range (NH)	44.147615	-71.314081	NO	NO	NO	YES	NO
+Owl's Head	4025	825	White Mountains	Franconia Range	44.144081	-71.605039	YES	YES	NO	NO	NO
+Bondcliffs	4265	185	White Mountains	Twin Range	44.140653	-71.540616	YES	YES	NO	NO	NO
+Mount Crawford	3119	239	White Mountains	Presidential Range (NH)	44.136759	-71.332495	NO	NO	NO	YES	NO
+Iron Mountain	2726	926	White Mountains	Presidential Range (NH)	44.134346	-71.239056	NO	NO	NO	YES	NO
+North Kinsman Mountain	4293	253	White Mountains	Kinsman Range	44.133370	-71.736915	YES	YES	NO	NO	NO
+Mount Bemis	3725	245	White Mountains		44.126977	-71.393628	NO	YES	NO	NO	NO
+Mount Parker	3004	164	White Mountains	Presidential Range (NH)	44.123591	-71.298740	NO	NO	NO	YES	NO
+South Kinsman Mountain	4358	2398	White Mountains	Kinsman Range	44.122965	-71.736553	YES	YES	YES	NO	NO
+Mount Nancy	3926	1006	White Mountains		44.122322	-71.404649	NO	YES	NO	NO	NO
+Mount Liberty	4459	379	White Mountains	Franconia Range	44.115781	-71.642142	YES	YES	NO	NO	NO
+Mount Anderson	3720	440	White Mountains		44.112607	-71.417798	NO	YES	NO	NO	NO
+Mount Flume	4328	408	White Mountains	Franconia Range	44.108779	-71.627914	YES	YES	NO	NO	NO
+Kearsarge North	3268	1748	White Mountains	Baldface Range	44.105855	-71.094296	NO	NO	NO	YES	YES
+Mount Lowell	3720	560	White Mountains		44.103796	-71.418261	NO	YES	NO	NO	NO
+Vose Spur	3862	222	White Mountains		44.102944	-71.434647	NO	YES	NO	NO	NO
+Mount Pemigewasset	2557	117	White Mountains	Kinsman Range	44.097871	-71.699656	NO	NO	NO	YES	NO
+Mount Carrigain	4680	2223	White Mountains	Hancock Range	44.093567	-71.446865	YES	YES	YES	NO	YES
+The Captain	3520	200	White Mountains		44.084086	-71.462209	NO	YES	NO	NO	NO
+Mount Hancock	4400	1200	White Mountains	Hancock Range	44.083370	-71.493429	YES	YES	NO	NO	NO
+Mount Wolf	3480	880	White Mountains		44.076032	-71.750378	NO	NO	NO	NO	NO
+Black Mountain (NH)	2820	660	White Mountains	Moosilaukee Range	44.074588	-71.922222	NO	NO	NO	YES	NO
+Mount Hitchcock	3600	520	White Mountains		44.074502	-71.539482	NO	YES	NO	NO	NO
+South Hancock	4319	159	White Mountains	Hancock Range	44.073219	-71.487149	YES	YES	NO	NO	NO
+Black Cap	2367	947	White Mountains		44.056137	-71.066978	NO	NO	NO	NO	NO
+Mount Tremont	3371	1571	White Mountains	Barlett Range	44.053434	-71.357040	NO	NO	NO	YES	NO
+Mount Huntington	3680	800	White Mountains		44.050245	-71.491162	NO	YES	NO	NO	NO
+Middle Huntington	3680	160	White Mountains		44.046373	-71.485071	NO	YES	NO	NO	NO
+North Moat Mountain	3196	1156	White Mountains	Barlett Range	44.043176	-71.214707	NO	NO	NO	YES	NO
+Mount Clough	3561	1241	White Mountains		44.029416	-71.872179	NO	YES	NO	NO	NO
+Scar Ridge	3774	654	White Mountains		44.029130	-71.595346	NO	YES	NO	NO	NO
+Mount Moosilauke	4802	2932	White Mountains	Moosilaukee Range	44.024326	-71.830965	YES	YES	YES	NO	NO
+Middle Moat Mountain	2805	325	White Mountains		44.023685	-71.198836	NO	NO	NO	NO	NO
+Blueberry Mountain	2662	42	Monadnock Mountains	Moosilaukee Range	44.019368	-71.905099	NO	NO	NO	YES	NO
+East Scar Ridge	3620	340	White Mountains		44.019148	-71.565276	NO	YES	NO	NO	NO
+South Moat Mountain	2760	60	White Mountains	Barlett Range	44.017516	-71.193578	NO	NO	NO	YES	NO
+Mount Kancamagus	3762	842	White Mountains		44.011127	-71.479116	NO	YES	NO	NO	NO
+East Osceola	4156	316	White Mountains	Osceola Range	44.006235	-71.520622	YES	YES	NO	NO	NO
+Mount Osceola	4320	2000	White Mountains	Osceola Range	44.001614	-71.535615	YES	YES	YES	NO	NO
+Scaur Peak	3605	165	White Mountains	Sandwich Range	43.985268	-71.450170	NO	YES	NO	NO	NO
+Potash Mountain	2680	200	White Mountains	Sandwich Range	43.982140	-71.390907	NO	NO	NO	YES	NO
+Mount Mist	2220	840			43.974831	-71.930797	NO	NO	NO	NO	NO
+Hedgehog Mountain	2532	452	White Mountains	Sandwich Range	43.974254	-71.367159	NO	NO	NO	YES	NO
+North Tripyramid	4160	1320	White Mountains	Sandwich Range	43.973254	-71.442878	YES	YES	NO	NO	NO
+The Fool Killer	3548	188	White Mountains		43.971414	-71.426374	NO	YES	NO	NO	NO
+Mount Tecumseh	4003	1723	White Mountains	Osceola Range	43.966479	-71.556689	YES	YES	NO	NO	NO
+Middle Sister	3354	114	White Mountains	Sandwich Range	43.964846	-71.270253	NO	NO	NO	YES	NO
+Middle Tripyramid	4120	240	White Mountains	Sandwich Range	43.964662	-71.440101	YES	YES	NO	NO	NO
+Mount Passaconaway	4043	803	White Mountains	Sandwich Range	43.954734	-71.380821	YES	YES	NO	NO	NO
+Mount Chocorua	3480	1240	White Mountains	Sandwich Range	43.954350	-71.273346	NO	NO	NO	YES	NO
+West Sleeper	3881	161	White Mountains		43.954336	-71.435404	NO	YES	NO	NO	NO
+Square Ledge	2600	0	White Mountains	Sandwich Range	43.952780	-71.363327	NO	NO	NO	YES	NO
+Mount Paugus	3198	958	White Mountains	Sandwich Range	43.951106	-71.329093	NO	NO	NO	YES	NO
+East Sleeper	3840	320	White Mountains		43.946684	-71.425497	NO	YES	NO	NO	NO
+Mount Whiteface	4000	560	White Mountains	Sandwich Range	43.936643	-71.407716	YES	YES	NO	NO	NO
+Mount Hibbard	2920	0	White Mountains	Sandwich Range	43.936211	-71.370914	NO	NO	NO	YES	NO
+Mount Wonalancet	2760	160	White Mountains		43.927100	-71.376706	NO	NO	NO	NO	NO
+Dickey Mountain	2734	134	White Mountains	Osceola Range	43.923009	-71.578737	NO	NO	NO	YES	NO
+Noon Peak	2976	56	White Mountains		43.920243	-71.501697	NO	NO	NO	NO	NO
+Jennings Peak	3440	120	White Mountains	Sandwich Range	43.911103	-71.510769	NO	NO	NO	YES	NO
+Sandwich Mountain	3960	1160	White Mountains	Sandwich Range	43.900524	-71.498151	NO	YES	NO	YES	NO
+Mount Cube	2909	849	Monadnock Mountains	Baker Range	43.885727	-72.023467	NO	NO	NO	YES	NO
+Carr Mountain	3453	1480	White Mountains		43.884788	-71.843370	NO	NO	NO	NO	NO
+Great Hill	1250	290	White Mountains		43.876799	-71.298823	NO	NO	NO	NO	YES
+Mount Israel	2620	1180	White Mountains	Squam Range	43.845662	-71.471920	NO	NO	NO	YES	NO
+Stinson Mountain	2840	1440	White Mountains	Moosilaukee Range	43.834739	-71.779284	NO	NO	NO	YES	NO
+Smarts Mountain	3238	2178	Monadnock Mountains	Baker Range	43.825735	-72.038638	NO	NO	YES	NO	YES
+Mount Percival	2212	52	White Mountains	Squam Range	43.809688	-71.557202	NO	NO	NO	NO	NO
+Bayle Mountain	1853	193	Lowland	Ossipee Range	43.783435	-71.251878	NO	NO	NO	NO	NO
+West Rattlesnake	1240	240	White Mountains	Squam Range	43.780487	-71.540832	NO	NO	NO	NO	NO
+Holt's Ledge	2100	860	Monadnock Mountains		43.772953	-72.108207	NO	NO	NO	NO	NO
+Green Mountain	1884	1284	Lowland		43.767792	-71.036936	NO	NO	NO	NO	YES
+Faraway Mountain	2782	413	Lowland	Ossipee Range	43.761530	-71.311649	NO	NO	NO	NO	NO
+Mount Roberts	2582	102	Lowland	Ossipee Range	43.756322	-71.326004	NO	NO	NO	YES	NO
+Red Hill	2020	1360	Lowland	Ossipee Range	43.755889	-71.457846	NO	NO	NO	NO	YES
+Mount Shaw	2990	2330	Lowland	Ossipee Range	43.743940	-71.274112	NO	NO	YES	YES	NO
+Mount Flagg	2390	130	Lowland	Ossipee Range	43.743479	-71.251789	NO	NO	NO	NO	NO
+Sentinel Mountain	1680	120	Lowland	Ossipee Range	43.736578	-71.225480	NO	NO	NO	NO	NO
+Black Snout	2803	63	Lowland	Ossipee Range	43.736093	-71.272639	NO	NO	NO	NO	NO
+Moose Mountain	2303	1423	Monadnock Mountains		43.734713	-72.140958	NO	NO	NO	NO	NO
+Turtleback Mountain	2203	143	Lowland	Ossipee Range	43.729472	-71.295680	NO	NO	NO	NO	NO
+Tate Mountain	2060	140	Lowland	Ossipee Range	43.724741	-71.270010	NO	NO	NO	NO	NO
+Bald Knob	1801	1	Lowland	Ossipee Range	43.723499	-71.298021	NO	NO	NO	NO	NO
+Wawbeek	814	227	Lowland		43.675135	-71.287365	NO	NO	NO	NO	YES
+Mount Cardigan	3123	1890	Monadnock Mountains	Baker Range	43.649585	-71.914251	NO	NO	YES	YES	YES
+Lockes Hill	1057	257	Lowland	Belknap Range	43.578240	-71.379579	NO	NO	NO	NO	NO
+Mount Rowe	1680	185	Lowland	Belknap Range	43.545732	-71.378252	NO	NO	NO	NO	NO
+Copple Crown Mountain	1868	1188	Lowland		43.534675	-71.115751	NO	NO	NO	NO	NO
+Gunstock Mountain	2240	220	Lowland	Belknap Range	43.526053	-71.378686	NO	NO	NO	NO	NO
+Belknap Mountain	2382	1842	Lowland	Belknap Range	43.518001	-71.369388	NO	NO	YES	NO	YES
+Rand Mountain	1883	183	Lowland	Belknap Range	43.513705	-71.325857	NO	NO	NO	NO	NO
+Mount Major	1786	186	Lowland	Belknap Range	43.513679	-71.287243	NO	NO	NO	NO	NO
+Klem Mountain	2001	461	Lowland	Belknap Range	43.512478	-71.334514	NO	NO	NO	NO	NO
+Quarry Mountain	1894	134	Lowland	Belknap Range	43.511416	-71.313052	NO	NO	NO	NO	NO
+Straightback Mountain	1890	50	Lowland	Belknap Range	43.506474	-71.300350	NO	NO	NO	NO	NO
+Anna Mountain	1660	60	Lowland	Belknap Range	43.504795	-71.317156	NO	NO	NO	NO	NO
+Mack Mountain	1945	165	Lowland	Belknap Range	43.504516	-71.333939	NO	NO	NO	NO	NO
+Piper Mountain	2044	224	Lowland	Belknap Range	43.503764	-71.377852	NO	NO	NO	NO	NO
+Whiteface Mountain	1660	200	Lowland	Belknap Range	43.488887	-71.386834	NO	NO	NO	NO	NO
+Mount Kearsarge	2920	2080	Monadnock Mountains	Monadnock Range	43.383245	-71.857142	NO	NO	YES	YES	YES
+Blue Job Mountain	1357	517	Lowland		43.331545	-71.116008	NO	NO	NO	NO	YES
+Sunapee Mountain	2726	1466	Monadnock Mountains		43.313782	-72.074295	NO	NO	NO	NO	NO
+Parker Mountain	1400	700	Lowland		43.280120	-71.169066	NO	NO	NO	NO	NO
+Oak Hill	960	520	Lowland		43.279120	-71.505691	NO	NO	NO	NO	YES
+Lovewell Mountain	2461	837	Monadnock Mountains		43.203509	-72.061085	NO	NO	NO	NO	NO
+Nottingham Mountain	1340	270	Lowland		43.178340	-71.302248	NO	NO	NO	NO	NO
+Mount Pawtuckaway	980	560	Lowland		43.120239	-71.197297	NO	NO	NO	NO	NO
+South Pawtuckaway	908	368	Lowland		43.101872	-71.181433	NO	NO	NO	NO	YES
+Pitcher Mountain	2162	657	Monadnock Mountains		43.094096	-72.134954	NO	NO	NO	NO	YES
+Stratham Hill	280	120	Lowland		43.039473	-70.889840	NO	NO	NO	NO	YES
+Uncanoonuc Mountain	1324	754	Lowland		42.991063	-71.604998	NO	NO	NO	NO	NO
+Hyland Hill	1509	653	Monadnock Mountains		42.959438	-72.384496	NO	NO	NO	NO	YES
+North Pack Monadnock	2276	536	Monadnock Mountains	Wapack Range	42.886029	-71.866095	NO	NO	NO	NO	NO
+Warner Hill	600	230	Lowland		42.885691	-71.266460	NO	NO	NO	NO	YES
+Pack Monadnock	2280	1256	Monadnock Mountains	Wapack Range	42.862132	-71.878871	NO	NO	NO	NO	YES
+Mount Monadnock	3150	2130	Monadnock Mountains	Monadnock Range	42.861117	-72.108292	NO	NO	YES	YES	NO
+Temple Mountain	2045	567	Monadnock Mountains	Wapack Range	42.827345	-71.885421	NO	NO	NO	NO	NO
+Federal Hill	690	150	Lowland		42.804874	-71.630185	NO	NO	NO	NO	YES
