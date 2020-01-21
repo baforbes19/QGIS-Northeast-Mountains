@@ -21,28 +21,35 @@ Mountains included are:
   Note: As better topographic measurements are taken, some mountains previously believed to meet the qualifications of a 4000 Footer do not but are still included on 4000 Footer lists (e.g. Blake Peak). Some mountains previously believed to not meet the qualifications of a 4000 Footer in fact do but are not included on 4000 Footer lists (e.g. Mount Guyot). So as to be inclusive, all of these mountains will be considered 4000 Footers in this collection.
 
 Finished:
-- Create base Elevation map of region
-- Add water features to map
-- Add Borders
+- Create base Elevation maps for:
+    - New Hampshire
 
 - Collect Mountain Data from:
     - New Hampshire
     - Vermont
     - Maine
     - Adirondacks
+    - Catskills
+    - Taconics
 
 Todo:
 
 - Collect Mountain Data from:
-    - Catskills
-    - Taconics
     - Massachusetts
     - Connecticut
     - Rhode Island
+    
+ - Create base Elevation maps for:
+    - Vermont
+    - Maine
+    - Southern New England
+    - Adirondacks
+    - Southern New York
   
 - Define Mountain Range Borders
 - Create better and more diverse symbols for mountains
 - ???Add roads and settlements???
 - Create displays when hovering over Mountains
+- Add Hiking Trails
 - ???Convert to web format???
 - ???Some other things???
