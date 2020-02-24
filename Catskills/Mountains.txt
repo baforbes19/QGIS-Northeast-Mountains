@@ -1,0 +1,89 @@
+MOUNTAIN	ELEVATION	PROMINENCE	STATE	RANGE	SUBRANGE	LATITUDE	LONGITUDE	4000FOOT	1800PROM	3500FOOT	TOWER
+Slide Mountain	4180	3280	New York	Catskill Mountains	Burroughs Range	41.999112	-74.386045	YES	YES	YES	NO
+Hunter Mountain	4040	2140	New York	Catskill Mountains	Devil's Path Range	42.177724	-74.230172	YES	YES	YES	YES
+Black Dome	3980	2060	New York	Catskill Mountains	Blackhead Range	42.270197	-74.122996	NO	YES	YES	NO
+Blackhead	3940	500	New York	Catskill Mountains		42.267745	-74.104703	NO	NO	YES	NO
+Thomas Cole Mountain	3940	200	New York	Catskill Mountains		42.270923	-74.136168	NO	NO	YES	NO
+West Kill Mountain	3880	1220	New York	Catskill Mountains		42.167971	-74.289694	NO	NO	YES	NO
+Graham Mountain	3868	1188	New York	Catskill Mountains		42.039536	-74.549350	NO	NO	YES	NO
+Doubletop Mountain	3860	880	New York	Catskill Mountains		42.027405	-74.528053	NO	NO	YES	NO
+Cornell Mountain	3860	600	New York	Catskill Mountains		42.001565	-74.356974	NO	NO	YES	NO
+Table Mountain	3847	647	New York	Catskill Mountains		41.958588	-74.404936	NO	NO	YES	NO
+Peekamoose Mountain	3843	183	New York	Catskill Mountains		41.953016	-74.398253	NO	NO	YES	NO
+Plateau Mountain	3840	1760	New York	Catskill Mountains		42.138233	-74.174374	NO	NO	YES	NO
+Sugarloaf Mountain	3800	1180	New York	Catskill Mountains		42.131280	-74.150254	NO	NO	YES	NO
+Wittenburg Mountain	3780	200	New York	Catskill Mountains		42.008279	-74.347330	NO	NO	YES	NO
+Southwest Hunter	3740	180	New York	Catskill Mountains		42.162559	-74.243656	NO	NO	YES	NO
+Lone Mountain	3721	281	New York	Catskill Mountains		41.969390	-74.389216	NO	NO	YES	NO
+Panther Mountain	3720	960	New York	Catskill Mountains		42.056480	-74.394295	NO	NO	YES	NO
+Balsam Lake Mountain	3720	460	New York	Catskill Mountains		42.045601	-74.594508	NO	NO	YES	YES
+Big Indian Mountain	3700	500	New York	Catskill Mountains		42.035036	-74.496641	NO	NO	YES	NO
+Friday Mountain	3694	194	New York	Catskill Mountains		41.987875	-74.362077	NO	NO	YES	NO
+Rusk Mountain	3680	740	New York	Catskill Mountains		42.200799	-74.277009	NO	NO	YES	NO
+Kaaterskill High Peak	3655	1695	New York	Catskill Mountains		42.162206	-74.080228	NO	NO	YES	NO
+Twin Mountain	3640	820	New York	Catskill Mountains		42.125571	-74.129263	NO	NO	YES	NO
+Balsam Cap	3623	243	New York	Catskill Mountains		41.977204	-74.357412	NO	NO	YES	NO
+Fir Mountain	3620	420	New York	Catskill Mountains		42.027692	-74.469057	NO	NO	YES	NO
+North Dome	3610	1150	New York	Catskill Mountains		42.173758	-74.348948	NO	NO	YES	NO
+Bearpen Mountain	3600	1680	New York	Catskill Mountains		42.265205	-74.473750	NO	NO	YES	NO
+Balsam Mountain	3600	570	New York	Catskill Mountains		42.090932	-74.488016	NO	NO	YES	NO
+Eagle Mountain	3600	480	New York	Catskill Mountains		42.061756	-74.509259	NO	NO	YES	NO
+Indian Head	3573	453	New York	Catskill Mountains		42.116427	-74.114577	NO	NO	YES	NO
+Mount Sherill	3540	520	New York	Catskill Mountains		42.175819	-74.372881	NO	NO	YES	NO
+Vly Mountain	3529	649	New York	Catskill Mountains		42.245819	-74.448373	NO	NO	YES	NO
+Windham High Peak	3524	744	New York	Catskill Mountains		42.314835	-74.143214	NO	NO	YES	NO
+Halcott Mountain	3520	700	New York	Catskill Mountains		42.180181	-74.438062	NO	NO	YES	NO
+Rocky Mountain	3508	308	New York	Catskill Mountains		41.972736	-74.373093	NO	NO	YES	NO
+Huntersfield Mountain	3423	1483	New York	Catskill Mountains		42.355722	-74.346098	NO	NO	NO	NO
+Belle Ayr Mountain	3420	560	New York	Catskill Mountains		42.128742	-74.519132	NO	NO	NO	NO
+Stoppel Point	3420	900	New York	Catskill Mountains		42.225219	-74.065012	NO	NO	NO	NO
+Platekill Mountain	3340	880	New York	Catskill Mountains		42.285554	-74.663571	NO	NO	NO	NO
+Plattekill Mountain	3260	360	New York	Catskill Mountains		42.266460	-74.648139	NO	NO	NO	NO
+Richmond Mountain	3220	560	New York	Catskill Mountains		42.367409	-74.270669	NO	NO	NO	NO
+Utsayantha Mountain	3214	534	New York	Catskill Mountains		42.398974	-74.589618	NO	NO	NO	YES
+Giant Ledge	3200	180	New York	Catskill Mountains		42.040177	-74.395418	NO	NO	NO	NO
+Burnt Knob	3180	280	New York	Catskill Mountains		42.302194	-74.119216	NO	NO	NO	NO
+North Mountain	3180	40	New York	Catskill Mountains		42.217435	-74.049102	NO	NO	NO	NO
+Overlook Mountain	3140	620	New York	Catskill Mountains		42.084992	-74.092984	NO	NO	NO	YES
+Acra Point	3100	220	New York	Catskill Mountains		42.296551	-74.099939	NO	NO	NO	NO
+High Point	3080	1400	New York	Catskill Mountains		41.924802	-74.287662	NO	NO	NO	NO
+Red Hill	2980	580	New York	Catskill Mountains		41.924286	-74.517447	NO	NO	NO	YES
+Tremper Mountain	2720	320	New York	Catskill Mountains		42.074484	-74.277898	NO	NO	NO	YES
+Ticetonyk Mountain	2500	1620	New York	Catskill Mountains		42.003042	-74.217503	NO	NO	NO	NO
+Huckleberry Point	2180	0	New York	Catskill Mountains		42.126430	-74.062657	NO	NO	NO	NO
+Vroman's Nose	1240	260	New York	Catskill Mountains		42.589868	-74.355941	NO	NO	NO	NO
+Sams Point	2289	1729	New York	Catskill Mountains	Shawangunk Range	41.671000	-74.355000	NO	NO	NO	NO
+Castle Point	2180	300	New York	Catskill Mountains	Shawangunk Range	41.703117	-74.273269	NO	NO	NO	NO
+Gertrude's Nose	1700	80	New York	Catskill Mountains	Shawangunk Range	41.694558	-74.248188	NO	NO	NO	NO
+Millbrook Mountain	1700	40	New York	Catskill Mountains	Shawangunk Range	41.704159	-74.235907	NO	NO	NO	NO
+Sky Top	1520	560	New York	Catskill Mountains	Shawangunk Range	41.763982	-74.155151	NO	NO	NO	NO
+Eagle Cliff	1434	155	New York	Catskill Mountains	Shawangunk Range	41.762221	-74.161034	NO	NO	NO	NO
+The Trapps	1300	302	New York	Catskill Mountains	Shawangunk Range	41.748039	-74.176512	NO	NO	NO	NO
+Bonticou Crag	1194	134	New York	Catskill Mountains	Shawangunk Range	41.788817	-74.118404	NO	NO	NO	NO
+Beebe Hill	1762	302	New York	Taconic Mountains		42.335802	-73.485746	NO	NO	NO	YES
+Mount Rutsen	355	160	New York	Taconic Mountains		41.956469	-73.926820	NO	NO	NO	YES
+Beacon Mountain	1600	1220	New York	Taconic Mountains		41.481425	-73.944521	NO	NO	NO	YES
+Stissing Mountain	1402	937	New York	Taconic Mountains		41.956633	-73.692817	NO	NO	NO	YES
+Dickinson Hill	1760	160	New York	Taconic Mountains		42.793518	-73.413904	NO	NO	NO	YES
+Sterling Mountain	1323	300	New York	Taconic Mountains		41.195228	-74.278436	NO	NO	NO	YES
+Ninham Mountain	1270	430	New York	Taconic Mountains		41.461415	-73.725171	NO	NO	NO	YES
+Jackie Jones Mountain	1278	238	New York	Taconic Mountains		41.223523	-74.071874	NO	NO	NO	YES
+Berlin Mountain	2818	1558	New York	Taconic Mountains		42.692047	-73.285794	NO	NO	NO	NO
+White Rock Mountain	2540	240	New York	Taconic Mountains		42.753914,	-73.280268	NO	NO	NO	NO
+Brace Mountain	2323	197	New York	Taconic Mountains		42.044300	-73.492626	NO	NO	NO	NO
+Harvey Mountain	2057	984	New York	Taconic Mountains		42.312798	-73.425348	NO	NO	NO	NO
+Sunset Rock	1784	5	New York	Taconic Mountains		42.134506	-73.495107	NO	NO	NO	NO
+Schunnemunk Mountain	1664	1164	New York	Taconic Mountains		41.391913	-74.116255	NO	NO	NO	NO
+Mount Taurus	1420	680	New York	Taconic Mountains		41.438318	-73.955948	NO	NO	NO	NO
+Storm King Mountain	1340	100	New York	Taconic Mountains		41.432859	-73.994727	NO	NO	NO	NO
+Schaghticoke Mountain	1331	131	New York	Taconic Mountains		41.685787	-73.522297	NO	NO	NO	NO
+Mount Egbert	1329	109	New York	Taconic Mountains		41.564222	-73.693141	NO	NO	NO	NO
+Bear Mountain	1300	700	New York	Taconic Mountains		41.312874	-74.006070	NO	NO	NO	NO
+Breakneck Ridge	1280	160	New York	Taconic Mountains		41.459840	-73.959152	NO	NO	NO	NO
+Bald Mountain	1120	300	New York	Taconic Mountains		41.284275	-73.991720	NO	NO	NO	NO
+Popolopen Torne	941	261	New York	Taconic Mountains		41.327132	-74.010556	NO	NO	NO	NO
+Anthony's Nose	900	360	New York	Taconic Mountains		41.318422	-73.974675	NO	NO	NO	NO
+Sugarloaf Mountain	900	240	New York	Taconic Mountains		41.458518	-73.975309	NO	NO	NO	NO
+Turkey Mountain	830	330	New York	Taconic Mountains		41.248193	-73.798685	NO	NO	NO	NO
+High Tor	810	350	New York	Taconic Mountains		41.187579	-73.965484	NO	NO	NO	NO
+Mount Nebo	680	450	New York	Taconic Mountains		41.049092	-73.926945	NO	NO	NO	NO
