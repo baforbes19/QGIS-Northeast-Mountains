@@ -1,0 +1,149 @@
+MOUNTAIN	ELEVATION	PROMINENCE	STATE	RANGE	SUBRANGE	LATITUDE	LONGITUDE	4000FOOT	3500FOOT	1800PROM	LOOKOUT
+Katahdin	5268	4288	Maine	Longfellow Mountains	Baxter Range	45.904362	-68.921392	YES	YES	YES	NO
+Hamlin Peak	4756	496	Maine	Longfellow Mountains	Baxter Range	45.924251	-68.927704	YES	YES	NO	NO
+Sugarloaf Mountain	4240	3168	Maine	Longfellow Mountains	High Peaks Range	45.031808	-70.313247	YES	YES	YES	NO
+Crocker Mountain	4226	427	Maine	Longfellow Mountains	High Peaks Range	45.047233	-70.382836	YES	YES	NO	NO
+Old Speck	4160	2700	Maine	White Mountains	Mahoosuc Range	44.571083	-70.953719	YES	YES	YES	YES
+North Brother	4151	1256	Maine	Longfellow Mountains	Baxter Range	45.957289	-68.985417	YES	YES	NO	NO
+Bigelow Mountain	4145	2845	Maine	Longfellow Mountains	Bigelow Range	45.146771	-70.288172	YES	YES	YES	NO
+Saddleback Mountain (West)	4120	2446	Maine	Longfellow Mountains	High Peaks Range	44.936559	-70.504671	YES	YES	YES	NO
+Avery Peak	4088	268	Maine	Longfellow Mountains	Bigelow Range	45.146699	-70.275378	YES	YES	NO	NO
+Saddleback Horn	4041	461	Maine	Longfellow Mountains	High Peaks Range	44.951405	-70.487172	YES	YES	NO	NO
+South Crocker Mountain	4040	340	Maine	Longfellow Mountains	High Peaks Range	45.036269	-70.376074	YES	YES	NO	NO
+Mount Abraham (Maine)	4040	880	Maine	Longfellow Mountains	High Peaks Range	44.972951	-70.326475	YES	YES	NO	NO
+Spaulding Mountain	4000	585	Maine	Longfellow Mountains	High Peaks Range	45.003004	-70.333539	YES	YES	NO	NO
+Mount Redington	4000	440	Maine	Longfellow Mountains	High Peaks Range	45.025030	-70.388746	YES	YES	NO	NO
+South Brother	3970	510	Maine	Longfellow Mountains	Baxter Range	45.944134	-69.001809	NO	YES	NO	NO
+Snow Mountain (North)	3960	2320	Maine	Longfellow Mountains	Boundary Range	45.291513	-70.709301	NO	YES	YES	NO
+Fort Mountain	3867	199	Maine	Longfellow Mountains	Baxter Range	45.962113	-68.974737	NO	YES	NO	NO
+Gooseye Mountain	3860	1360	Maine	White Mountains	Mahoosuc Range	44.502820	-70.999506	NO	YES	NO	NO
+White Cap Mountain (West)	3856	996	Maine	Longfellow Mountains	Boundary Range	45.236135	-70.818152	NO	YES	NO	NO
+Border Monuments 445-446 Peak	3855	495	Maine	Longfellow Mountains	Boundary Range	45.267089	-70.841222	NO	YES	NO	NO
+The Horns	3805	485	Maine	Longfellow Mountains	Bigelow Range	45.145015	-70.323169	NO	YES	NO	NO
+Mount Coe	3795	295	Maine	Longfellow Mountains	Baxter Range	45.933822	-69.009170	NO	YES	NO	NO
+East Kennabago Mountain	3791	1791	Maine	Longfellow Mountains	Boundary Range	45.121861	-70.599689	NO	YES	NO	NO
+Snow Mountain (South)	3785	1264	Maine	Longfellow Mountains	Boundary Range	45.169470	-70.826843	NO	YES	NO	YES
+Baldpate Mountain	3780	2228	Maine	White Mountains	Mahoosuc Range	44.609287	-70.892316	NO	YES	YES	NO
+North Kennebago Divide	3775	355	Maine	Longfellow Mountains	Boundary Range	45.222573	-70.815779	NO	YES	NO	NO
+Elephant Mountain	3772	2052	Maine	Longfellow Mountains	Blue Range	44.768153	-70.781854	NO	YES	YES	NO
+Saddleback North Horn	3772	192	Maine	Longfellow Mountains	High Peaks Range	44.959025	-70.491751	NO	YES	NO	NO
+Northeast Elephant Mountain	3770	170	Maine	Longfellow Mountains	Blue Range	44.772431	-70.774389	NO	YES	NO	NO
+Mahoosuc Arm	3765	225	Maine	White Mountains	Mahoosuc Range	44.560767	-70.978244	NO	YES	NO	NO
+South Redington	3760	240	Maine	Longfellow Mountains	High Peaks Range	45.007864	-70.394281	NO	YES	NO	NO
+West Kennebago Mountain	3740	875	Maine	Longfellow Mountains	Boundary Range	45.120412	-70.815558	NO	YES	NO	NO
+Middle Abraham	3740	320	Maine	Longfellow Mountains	High Peaks Range	44.955453	-70.304587	NO	YES	NO	NO
+The Owl	3736	376	Maine	Longfellow Mountains	Baxter Range	45.909645	-68.958475	NO	YES	NO	NO
+Coburn Mountain	3717	2497	Maine	Longfellow Mountains	Boundary Range	45.468761	-70.126643	NO	YES	YES	YES
+South Kennebago Mountain	3715	215	Maine	Longfellow Mountains	Boundary Range	45.107079	-70.816520	NO	YES	NO	NO
+South Kennebago Divide	3705	545	Maine	Longfellow Mountains	Boundary Range	45.205941	-70.828536	NO	YES	NO	NO
+Black Nubble	3700	900	Maine	Longfellow Mountains	High Peaks Range	45.032037	-70.447074	NO	YES	NO	NO
+Barren Mountain (North)	3696	686	Maine	Longfellow Mountains	Baxter Range	45.919449	-68.982605	NO	YES	NO	NO
+North Goose Eye Mountain	3675	275	Maine	White Mountains	Mahoosuc Range	44.516380	-70.988454	NO	YES	NO	NO
+South Abraham	3671	251	Maine	Longfellow Mountains	High Peaks Range	44.943662	-70.290244	NO	YES	NO	NO
+West Baldpate Mountain	3662	222	Maine	White Mountains	Mahoosuc Range	44.601649	-70.902147	NO	YES	NO	NO
+Saddleback Junior	3655	615	Maine	Longfellow Mountains	High Peaks Range	44.958196	-70.457788	NO	YES	NO	NO
+Rump Mountain	3654	1514	Maine	Longfellow Mountains	Boundary Range	45.203712	-71.063578	NO	YES	NO	NO
+Kibby Mountain	3654	2254	Maine	Longfellow Mountains	Boundary Range	45.418671	-70.544438	NO	YES	YES	YES
+White Cap Mountain (East)	3654	2604	Maine	Longfellow Mountains	Piscataquis Range	45.554633	-69.246405	NO	YES	YES	NO
+Cow Ridge	3645	1425	Maine	Longfellow Mountains	Boundary Range	45.191928	-70.729091	NO	YES	NO	NO
+Middle Kennebago Mountain	3640	860	Maine	Longfellow Mountains	Boundary Range	45.102106	-70.638621	NO	YES	NO	NO
+Caribou Mountain	3640	1220	Maine	Longfellow Mountains	Boundary Range	45.429772	-70.623134	NO	YES	NO	NO
+Boundary Bald	3620	1992	Maine	Longfellow Mountains	Boundary Range	45.766866	-70.203857	NO	YES	YES	NO
+Burnt Hill	3609	429	Maine	Longfellow Mountains	High Peaks Range	45.035761	-70.282418	NO	YES	NO	NO
+Boil Mountain	3601	1101	Maine	Longfellow Mountains	Boundary Range	45.243144	-70.735781	NO	YES	NO	NO
+Tumbledown Mountain (North)	3588	988	Maine	Longfellow Mountains	Boundary Range	45.449346	-70.470506	NO	YES	NO	YES
+Old Blue	3580	600	Maine	Longfellow Mountains	Blue Range	44.747119	-70.765595	NO	YES	NO	NO
+Bemis Mountain	3580	300	Maine	Longfellow Mountains	Blue Range	44.794933	-70.768278	NO	YES	NO	NO
+North Caribou Mountain	3580	200	Maine	Longfellow Mountains	Boundary Range	45.435419	-70.614436	NO	YES	NO	NO
+Jackson Mountain	3568	1791	Maine	Longfellow Mountains	Blue Range	44.762445	-70.520210	NO	YES	NO	NO
+Mount Carlo	3565	405	Maine	White Mountains	Mahoosuc Range	44.489170	-71.008610	NO	YES	NO	NO
+Brown Benchmark	3541	561	Maine	Longfellow Mountains	Boundary Range	45.402482	-70.621495	NO	YES	NO	NO
+The Traveler	3540	2320	Maine	Longfellow Mountains	Baxter Range	46.072770	-68.844613	NO	YES	YES	NO
+Monument 450 Peak	3540	249	Maine	Longfellow Mountains	Boundary Range	45.237272	-70.836647	NO	YES	NO	NO
+Twin Mountains	3536	336	Maine	Longfellow Mountains	Boundary Range	45.151901	-70.824566	NO	YES	NO	NO
+Baker Mountain	3520	2180	Maine	Longfellow Mountains	Piscataquis Range	45.571063	-69.393967	NO	YES	YES	NO
+Kibby Peak 3510	3510	410	Maine	Longfellow Mountains	Boundary Range	45.398246	-70.597440	NO	YES	NO	NO
+Doubletop Mountain	3489	2069	Maine	Longfellow Mountains	Baxter Range	45.935958	-69.061140	NO	NO	YES	NO
+Little Jackson Mountain	3460	400	Maine	Longfellow Mountains	Blue Range	44.754332	-70.535738	NO	NO	NO	NO
+Sunday River Whitecap	3335	975	Maine			44.549132	-70.896742	NO	NO	NO	NO
+Center Ridge	3254	334	Maine			46.074277	-68.868080	NO	NO	NO	NO
+Big Spencer Mountain	3206	1906	Maine	Longfellow Mountains	Piscataquis Range	45.772669	-69.447373	NO	NO	YES	YES
+Big Moose Mountain	3196	2116	Maine	Longfellow Mountains	Piscataquis Range	45.484170	-69.711670	NO	NO	YES	NO
+Cranberry Peak	3194	734	Maine	Longfellow Mountains	Bigelow Range	45.140822	-70.380485	NO	NO	NO	NO
+Number 5 Mountain	3186	406	Maine	Longfellow Mountains	Boundary Range	45.500993	-70.386701	NO	NO	NO	YES
+Mount Blue (Maine)	3180	1820	Maine	Longfellow Mountains	Blue Range	44.728165	-70.342098	NO	NO	YES	NO
+Aziscohos Mountain	3180	1620	Maine	Longfellow Mountains	Boundary Range	44.914217	-71.001949	NO	NO	NO	NO
+North Traveler Mountain	3152	592	Maine	Longfellow Mountains	Baxter Range	46.100232	-68.854957	NO	NO	NO	NO
+Puzzle Mountain	3142	1362	Maine			44.546837	-70.788463	NO	NO	NO	NO
+South Turner Mountain	3123	563	Maine			45.941297	-68.850619	NO	NO	NO	NO
+East Royce Mountain	3114	494	Maine			44.307410	-71.005578	NO	NO	NO	NO
+Sandy Bay Mountain	3100	1140	Maine			45.754203	-70.393820	NO	NO	NO	NO
+Tumbledown Mountain (South)	3080	280	Maine	Longfellow Mountains	Blue Range	44.750090	-70.548858	NO	NO	NO	NO
+Little Bigelow Mountain	3060	840	Maine			45.134412	-70.216872	NO	NO	NO	NO
+Saddleback Mountain (East)	2998	1838	Maine	Longfellow Mountains	Piscataquis Range	45.509482	-69.135994	NO	NO	YES	NO
+Blueberry Mountain	2962	622	Maine			44.767701	-70.479799	NO	NO	NO	NO
+Moxie Mountain	2920	1813	Maine	Longfellow Mountains	Piscataquis Range	45.206782	-69.893914	NO	NO	YES	NO
+Speckled Mountain (West)	2906	1486	Maine			44.291171	-70.955040	NO	NO	NO	NO
+Number 4 Mountain	2890	231	Maine	Longfellow Mountains	Piscataquis Range	45.613461	-69.407665	NO	NO	NO	YES
+Barren Mountain (South)	2640	1520	Maine	Longfellow Mountains	Piscataquis Range	45.415646	-69.370468	NO	NO	NO	YES
+Moxie Bald	2629	12269	Maine			45.263757	-69.771716	NO	NO	NO	NO
+Bald Mountain (Rangeley)	2460	940	Maine	Longfellow Mountains	Blue Range	44.943833	-70.775606	NO	NO	NO	YES
+Flagstaff Mountain	2460	1100	Maine	Longfellow Mountains	Boundary Range	45.241176	-70.306286	NO	NO	NO	YES
+Pleasant Pond Mountain	2460	1020	Maine			45.272130	-69.895857	NO	NO	NO	NO
+Mount Chase	2440	1700	Maine			46.108553	-68.477998	NO	NO	NO	NO
+Williams Mountain	2400	800	Maine	Longfellow Mountains	Boundary Range	45.554006	-70.008313	NO	NO	NO	YES
+Bald Mountain (West)	2360	525	Maine			44.646979	-70.350266	NO	NO	NO	NO
+Mount Zircon	2240	1200	Maine			44.474212	-70.559049	NO	NO	NO	NO
+Sally Mountain	2226	506	Maine			45.590987	-70.303432	NO	NO	NO	NO
+Mosquito Mountain	2216	1076	Maine			45.314592	-69.869691	NO	NO	NO	NO
+Whitecap Mountain	2200	780	Maine			44.571730	-70.660543	NO	NO	NO	NO
+Speckled Mountain (East)	2183	1063	Maine			44.440159	-70.511174	NO	NO	NO	NO
+Pleasant Mountain	2006	1486	Maine	Lowland		44.027077	-70.822348	NO	NO	NO	YES
+Borestone Mountain	1981	972	Maine			45.377218	-69.403655	NO	NO	NO	NO
+Mount Abram	1980	1240	Maine			44.369639	-70.712972	NO	NO	NO	NO
+Deasey Mountain	1964	1044	Maine			45.941413	-68.685663	NO	NO	NO	NO
+Albany Mountain	1920	420	Maine			44.300522	-70.836572	NO	NO	NO	NO
+Mount Kineo	1789	749	Maine	Longfellow Mountains	Piscataquis Range	45.699890	-69.733883	NO	NO	NO	YES
+Allagash Mountain	1760	620	Maine			46.292115	-69.568517	NO	NO	NO	YES
+Streaked Mountain	1750	1070	Maine	Lowland		44.250212	-70.423309	NO	NO	NO	YES
+Mars Hill	1748	1208	Maine			46.521222	-67.813809	NO	NO	NO	NO
+Mount Will	1726	786	Maine			44.476207	-70.810533	NO	NO	NO	NO
+Kelly Mountain	1628	548	Maine	Lowland		45.056646	-69.735171	NO	NO	NO	YES
+Cadillac Mountain	1528	1528	Maine	Lowland	Acadia Range	44.351107	-68.226351	NO	NO	NO	NO
+Mount Megunticook	1385	1225	Maine			44.241164	-69.067580	NO	NO	NO	NO
+Douglas Mountain	1382	852	Maine			43.871522	-70.696559	NO	NO	NO	NO
+Sargent Mountain	1379	979	Maine	Lowland		44.342893	-68.273303	NO	NO	NO	NO
+Hosac Mountain	1320	280	Maine			43.750991	-70.780267	NO	NO	NO	NO
+McGaffey Mountain	1310	930	Maine			44.528972	-69.959535	NO	NO	NO	NO
+Ragged Mountain	1300	1070	Maine			44.212329	-69.150925	NO	NO	NO	NO
+Bald Mountain (South)	1280	620	Maine			44.229533	-69.136209	NO	NO	NO	NO
+Bald Mountain (East)	1261	1033	Maine			44.658372	-68.604782	NO	NO	NO	NO
+Pemetic Mountain	1247	787	Maine	Lowland	Acadia Range	44.335399	-68.245313	NO	NO	NO	NO
+Champlain Mountain	1060	920	Maine	Lowland	Acadia Range	44.350782	-68.194130	NO	NO	NO	NO
+Bernard Mountain	1060	1000	Maine	Lowland	Acadia Range	44.302407	-68.372286	NO	NO	NO	NO
+Ossipee Hill	1050	610	Maine	Lowland		43.588568	-70.740538	NO	NO	NO	YES
+Mansell Mountain	938	298	Maine	Lowland	Acadia Range	44.306193	-68.361786	NO	NO	NO	NO
+The Bubble	872	412	Maine	Lowland	Acadia Range	44.344250	-68.256769	NO	NO	NO	NO
+Norumbega Mountain	850	490	Maine	Lowland	Acadia Range	Acadia Range	-68.295616	NO	NO	NO	NO
+Beech Mountain	841	701	Maine	Lowland	Acadia Range	44.311254	-68.345702	NO	NO	NO	YES
+Mount Pisgah	810	455	Maine	Lowland		44.306233	-70.023966	NO	NO	NO	YES
+Chase Hill	760	310	Maine	Lowland		44.829140	-69.545051	NO	NO	NO	YES
+Mount Agamenticus	691	511	Maine	Lowland		43.223203	-70.691950	NO	NO	NO	YES
+Saint Sauveur Mountain	680	540	Maine	Lowland	Acadia Range	44.310048	-68.322947	NO	NO	NO	NO
+Acadia Mountain	680	440	Maine	Lowland	Acadia Range	44.323497	-68.322904	NO	NO	NO	NO
+The Beehive	540	100	Maine	Lowland	Acadia Range	44.333706	-68.188010	NO	NO	NO	NO
+Bradbury Mountain	470	310	Maine			43.902739	-70.181842	NO	NO	NO	NO
+The Mountain	665	295	Maine			44.552786	-69.890423	NO	NO	NO	NO
+French Mountain	716	266	Maine			44.570834	-69.917929	NO	NO	NO	NO
+Mount Phillip	755	355	Maine			44.586800	-69.885063	NO	NO	NO	NO
+Mount Battie	780	200	Maine			44.222638	-69.069017	NO	NO	NO	NO
+Rattlesnake Mountain	1035	600	Maine			43.967045	-70.485418	NO	NO	NO	NO
+Mount Waldo	1060	840	Maine			44.580563	-68.896805	NO	NO	NO	NO
+Abbott Mountain	1078	378	Maine			43.596057	-70.833879	NO	NO	NO	NO
+Bald Rock Mountain	1100	465	Maine			44.266874	-69.043503	NO	NO	NO	NO
+Hogback Mountain	1118	558	Maine			44.459060	-69.279945	NO	NO	NO	NO
+Round Top Mountain	1133	143	Maine			44.547510	-69.939503	NO	NO	NO	NO
+Frye Mountain	1139	619	Maine			44.476032	-69.217153	NO	NO	NO	NO
+Bald Pate Mountain	1147	607	Maine			43.961592	-70.706720	NO	NO	NO	NO
+Province Mountain	1176	496	Maine			43.669082	-70.976830	NO	NO	NO	NO
+Sawyer Mountain	1200	440	Maine			43.744747	-70.753155	NO	NO	NO	NO
